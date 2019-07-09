@@ -14,6 +14,8 @@ which is based on the [default](https://github.com/swagger-api/swagger-editor/bl
 with a custom plugin that issues `PUT` request to the URL whenever the spec
 is changed.
 
+The setup supports referencing definitions across files by relative path.
+
 ## Usage
 
 ```sh
