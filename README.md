@@ -24,3 +24,7 @@ npm start
 ```
 
 The follow the prompt and open browser to `http://localhost:8080/editor/?url=/specs/myapi.yaml`
+
+## Disclaimer
+
+This project is for demostration purpose only and is by no means production ready.
