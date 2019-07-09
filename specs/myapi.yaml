@@ -32,7 +32,7 @@ paths:
           content:
             application/json:
               schema:
-                $ref: 'definitions.yaml#/components/schemas/Pets'
+                $ref: 'pets.yaml'
         default:
           description: unexpected error
           content:
